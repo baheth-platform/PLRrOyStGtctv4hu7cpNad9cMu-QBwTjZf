@@ -1,0 +1,43 @@
+{
+  "user_id": 1,
+  "playlist_id": 70,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "القرآن الكريم",
+  "hidden": false,
+  "media": [
+    {
+      "title": "دورة الجذور القرآنية | المحاضرة الأولى - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:26:23",
+      "link": "https://www.youtube.com/watch?v=fIhKbWYmu9c",
+      "transcript_txt": "fIhKbWYmu9c.txt",
+      "transcript_srt": "fIhKbWYmu9c.srt"
+    },
+    {
+      "title": "دورة الجذور القرآنية | المحاضرة الثانية - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:48:13",
+      "link": "https://www.youtube.com/watch?v=lYreDqajfHY",
+      "transcript_txt": "lYreDqajfHY.txt",
+      "transcript_srt": "lYreDqajfHY.srt"
+    },
+    {
+      "title": "دورة الجذور القرآنية | المحاضرة الثالثة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:31:52",
+      "link": "https://www.youtube.com/watch?v=z0py1vlBz0w",
+      "transcript_txt": "z0py1vlBz0w.txt",
+      "transcript_srt": "z0py1vlBz0w.srt"
+    },
+    {
+      "title": "دورة الجذور القرآنية | المحاضرة الرابعة - م. أيمن عبدالرحيم",
+      "description": "",
+      "duration": "01:48:49",
+      "link": "https://www.youtube.com/watch?v=nmjJjiRUMe8",
+      "transcript_txt": "nmjJjiRUMe8.txt",
+      "transcript_srt": "nmjJjiRUMe8.srt"
+    }
+  ]
+}
